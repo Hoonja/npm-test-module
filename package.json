@@ -1,6 +1,6 @@
 {
   "name": "mauki-npm-proto",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Mauki's sample npm module for test",
   "main": "index.js",
   "scripts": {
